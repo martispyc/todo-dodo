@@ -1,1 +1,1 @@
-/mnt/c/Users/Matiss/code/projects/todo-dodo/target/debug/todo-dodo: /mnt/c/Users/Matiss/code/projects/todo-dodo/src/main.rs
+/home/matiss/code/projects/todo-dodo/target/debug/todo-dodo: /home/matiss/code/projects/todo-dodo/src/main.rs
